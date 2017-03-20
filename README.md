@@ -35,14 +35,12 @@ para Treinamento em JAVA.
 
 
 
-## IMAGEM EXEMPLO
-
-<h2> ATUALIZAÇÃO </h2> <br />
+## IMAGEM EXEMPLO - ATUALIZAÇÃO
 
 
-Opção Sair (Sim ou Não)
-Formatação da DATA
-(Tela Principal), ciração da logo usando Adobe Fireworks
+Opção Sair (Sim ou Não) 
+Formatação da DATA 
+(Tela Principal), ciração da logo usando Adobe Fireworks 
 
 
 
