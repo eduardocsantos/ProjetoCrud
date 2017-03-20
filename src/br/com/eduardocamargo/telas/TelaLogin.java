@@ -45,6 +45,11 @@ public class TelaLogin extends javax.swing.JFrame {
                 // Instancio o Objeto
                 TelaPrincipal principal = new TelaPrincipal();
                 principal.setVisible(true);
+                
+                this.dispose();
+                conexao.close();
+                
+                
             } else {
                 JOptionPane.showMessageDialog(null, "Usuario ou Senha inválida !");
             }
