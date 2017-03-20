@@ -37,7 +37,7 @@ para Treinamento em JAVA.
 
 ## IMAGEM EXEMPLO
 
-<h2> Atualização (Tela Principal), ciração da lgo usando Adobe Fireworks</h2>
+<h2> Atualização (Tela Principal), ciração da logo usando Adobe Fireworks</h2>
 
 
 
