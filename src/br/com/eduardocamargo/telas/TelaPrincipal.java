@@ -103,6 +103,11 @@ public class TelaPrincipal extends javax.swing.JFrame {
 
         MenAjuSob.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_F1, java.awt.event.InputEvent.ALT_MASK));
         MenAjuSob.setText("Sobre");
+        MenAjuSob.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                MenAjuSobActionPerformed(evt);
+            }
+        });
         MenAju.add(MenAjuSob);
 
         Menu.add(MenAju);
@@ -174,6 +179,12 @@ public class TelaPrincipal extends javax.swing.JFrame {
       
       
     }//GEN-LAST:event_MenOpcSaiActionPerformed
+
+    private void MenAjuSobActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_MenAjuSobActionPerformed
+        // Chamando a Tela SOBRE
+        TelaSobre  sobre = new TelaSobre();
+        sobre.setVisible(true);
+    }//GEN-LAST:event_MenAjuSobActionPerformed
 
     /**
      * @param args the command line arguments
