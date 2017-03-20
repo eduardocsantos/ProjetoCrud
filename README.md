@@ -37,11 +37,16 @@ para Treinamento em JAVA.
 
 ## IMAGEM EXEMPLO - ATUALIZAÇÃO
 
+- Criando PERFIL de usuário no BD depois no JAVA
 - Modificando o Acesso de usuarios e relatórios;
 - Tela Sobre;
 - Opção Sair (Sim ou Não);
 - Formatação da DATA;
 - (Tela Principal), ciração da logo usando Adobe Fireworks;
+
+<img src="IMG_sistema10.png" style="wodth: auto; height: 100%;">
+
+<br />
 
 <img src="IMG_sistema09.png" style="wodth: auto; height: 100%;">
 
