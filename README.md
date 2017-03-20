@@ -37,10 +37,18 @@ para Treinamento em JAVA.
 
 ## IMAGEM EXEMPLO
 
-<h2> ATUALIZAÇÃO <br />
+<h2> ATUALIZAÇÃO </h2> <br />
 
+<<p>
+- Opção Sair (Sim ou Não)
 - Formatação da DATA
--(Tela Principal), ciração da logo usando Adobe Fireworks</h2>
+-(Tela Principal), ciração da logo usando Adobe Fireworks
+</p>
+
+
+<img src="IMG_sistema07.png" style="wodth: auto; height: 100%;">
+
+<br />
 
 <img src="IMG_sistema06.png" style="wodth: auto; height: 100%;">
 
