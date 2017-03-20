@@ -39,10 +39,10 @@ para Treinamento em JAVA.
 
 <h2> ATUALIZAÇÃO </h2> <br />
 
-<<p>
-- Opção Sair (Sim ou Não)
-- Formatação da DATA
--(Tela Principal), ciração da logo usando Adobe Fireworks
+<p>
+Opção Sair (Sim ou Não)
+Formatação da DATA
+(Tela Principal), ciração da logo usando Adobe Fireworks
 </p>
 
 
