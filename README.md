@@ -39,7 +39,7 @@ para Treinamento em JAVA.
 
 <h2> Atualização (Tela Principal)</h2>
 
-<img src="IMG_sistema04.PNG" style="wodth: auto; height: 100%;">
+<img src="IMG_sistema04.png" style="wodth: auto; height: 100%;">
 
 <br />
 
